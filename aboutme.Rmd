@@ -1,0 +1,7 @@
+---
+title: "About Me"
+output: html_document
+---
+##About me
+Hi! My name is Sufiyan and I'm a Master's student at SMU. 
+I'm from Houston and my hobbies include reviewing food, traveling, and photography

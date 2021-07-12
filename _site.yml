@@ -4,3 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "About Me"
+      href: aboutme.html
+    - text: "Shiny"
+      href: Shiny.html
+
