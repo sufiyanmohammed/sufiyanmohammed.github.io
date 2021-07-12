@@ -1,6 +1,6 @@
 name: "Sufiyan's Website 6306"
 navbar:
-  title: "6306 Website""
+  title: "6306 Website"
   left:
     - text: "Home"
       href: index.html
