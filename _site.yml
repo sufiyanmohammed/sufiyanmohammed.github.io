@@ -6,6 +6,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: aboutme.html
+    - text: "Case Study"
+      href: MSDS_Case_Study.html
     - text: "Shiny"
       href: Shiny.html
-
